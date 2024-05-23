@@ -4,11 +4,11 @@
   <a href="https://github.com/Hvfidolov/Hvfidolov">
   <img src="https://github.com/Hvfidolov/Hvfidolov/assets/116460910/194564ab-abfb-41c5-b515-4a9e73a967d3" alt="Hvfidolov's Octocat" width="200">
   </a>
-  <a href="https://github.com/Hvfidolov" style="margin-right: 10dp;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hvfidolov&show_icons=true&theme=tokyonight" alt="Hvfidolov's GitHub stats">
-  </a>
   <a href="https://github.com/Hvfidolov">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hvfidolov&show_icons=true&theme=tokyonight" alt="Havfidolov's most used languages">
+  </a>
+  <a href="https://github.com/Hvfidolov" style="margin-right: 10dp;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Hvfidolov&show_icons=true&theme=tokyonight" alt="Hvfidolov's GitHub stats">
   </a>
 </div>
 
