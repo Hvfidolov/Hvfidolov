@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div style="display: flex; align-items: center;">
-  <a href="https://github.com/Hvfidolov/Hvfidolov">
+  <a href="https://www.linkedin.com/in/abdelhafid-el-yagoubi/">
   <img src="https://github.com/Hvfidolov/Hvfidolov/assets/116460910/194564ab-abfb-41c5-b515-4a9e73a967d3" alt="Hvfidolov's Octocat" width="200">
   </a>
   <a href="https://github.com/Hvfidolov">
