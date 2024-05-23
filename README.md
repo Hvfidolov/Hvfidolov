@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div style="display: flex; align-items: center;">
-  <a href="https://github.com/Hvfidolov/github-readme-stats" style="margin-right: 10px;">
+  <a href="https://github.com/Hvfidolov/github-readme-stats" style="margin-right: 10dp;">
     <img src="https://github-readme-stats.vercel.app/api?username=Hvfidolov&show_icons=true&theme=tokyonight" alt="Hvfidolov's GitHub stats">
   </a>
   <a href="https://github.com/Hvfidolov/github-readme-stats">
