@@ -1,9 +1,10 @@
 ## Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hvfidolov&show_icons=true&theme=tokyonight)](https://github.com/Hvfidolov/github-readme-stats)![octocat-1716453436382](https://github.com/Hvfidolov/Hvfidolov/assets/116460910/194564ab-abfb-41c5-b515-4a9e73a967d3)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hvfidolov&show_icons=true&theme=tokyonight)](https://github.com/Hvfidolov/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hvfidolov&show_icons=true&theme=tokyonight)](https://github.com/Hvfidolov/github-readme-stats)
+
+![octocat-1716453436382](https://github.com/Hvfidolov/Hvfidolov/assets/116460910/194564ab-abfb-41c5-b515-4a9e73a967d3)
 
 <!--
 **Hvfidolov/Hvfidolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
