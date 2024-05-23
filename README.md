@@ -8,8 +8,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hvfidolov&show_icons=true&theme=tokyonight" alt="Havfidolov's most used languages">
   </a>
 </div>
-<a>
-  <img src="https://github.com/Hvfidolov/Hvfidolov/assets/116460910/194564ab-abfb-41c5-b515-4a9e73a967d3" alt="Hvfidolov's Octocat">
+<a href="https://github.com/Hvfidolov/Hvfidolov">
+  <img src="https://github.com/Hvfidolov/Hvfidolov/assets/116460910/194564ab-abfb-41c5-b515-4a9e73a967d3" alt="Hvfidolov's Octocat" width="200">
 </a>
 <!--
 **Hvfidolov/Hvfidolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
