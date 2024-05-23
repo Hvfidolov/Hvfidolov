@@ -4,6 +4,9 @@
   <a href="https://github.com/Hvfidolov/Hvfidolov">
   <img src="https://github.com/Hvfidolov/Hvfidolov/assets/116460910/194564ab-abfb-41c5-b515-4a9e73a967d3" alt="Hvfidolov's Octocat" width="200">
   </a>
+  <a href="https://github.com/Hvfidolov/Hvfidolov">
+  <img src="https://marketpedia.ca/wp-content/uploads/2021/10/gif-brent-rambo-pouvoir-du-gif.gif" alt="Thumbs Up" width="200">
+  </a>
   <a href="https://github.com/Hvfidolov">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hvfidolov&show_icons=true&theme=tokyonight" alt="Havfidolov's most used languages">
   </a>
