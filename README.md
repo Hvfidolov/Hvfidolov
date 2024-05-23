@@ -10,7 +10,7 @@
   <a href="https://github.com/Hvfidolov" style="margin-right: 10dp;">
     <img src="https://github-readme-stats.vercel.app/api?username=Hvfidolov&show_icons=true&theme=tokyonight" alt="Hvfidolov's GitHub stats">
   </a>
-  <a href="https://github.com/Hvfidolov/Hvfidolov">
+  <a href="https://github.com/Hvfidolov">
   <img src="https://marketpedia.ca/wp-content/uploads/2021/10/gif-brent-rambo-pouvoir-du-gif.gif" alt="Thumbs Up" width="250">
   </a>
 </div>
