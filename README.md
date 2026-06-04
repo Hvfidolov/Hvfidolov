@@ -1,31 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdelhafid El Yagoubi
 
-<div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/abdelhafid-el-yagoubi/">
-  <img src="https://github.com/Hvfidolov/Hvfidolov/assets/116460910/194564ab-abfb-41c5-b515-4a9e73a967d3" alt="Hvfidolov's Octocat" width="200">
-  </a>
-  <a href="https://github.com/Hvfidolov">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hvfidolov&show_icons=true&theme=tokyonight" alt="Havfidolov's most used languages">
-  </a>
-  <a href="https://github.com/Hvfidolov" style="margin-right: 10dp;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Hvfidolov&show_icons=true&theme=tokyonight" alt="Hvfidolov's GitHub stats">
-  </a>
-  <a href="https://github.com/Hvfidolov">
-  <img src="https://marketpedia.ca/wp-content/uploads/2021/10/gif-brent-rambo-pouvoir-du-gif.gif" alt="Thumbs Up" width="250">
-  </a>
-</div>
+### 🚀 Software Engineer | AI, Data & IoT Enthusiast 
 
-<!--
-**Hvfidolov/Hvfidolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building intelligent systems, automation platforms, and connected devices.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+| Stats | Languages |
+|---------|---------|
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Hvfidolov&show_icons=true&theme=tokyonight) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hvfidolov&layout=compact&theme=tokyonight) |
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelhafid_El_Yagoubi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelhafid-el-yagoubi/)
+
+---
+
+> "Building the future one project at a time."
