@@ -48,7 +48,5 @@ Building intelligent systems, automation platforms, and connected devices.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdelhafid_El_Yagoubi-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdelhafid-el-yagoubi/)
 
 ---
-<p align="center">
-  <img src="https://i.giphy.com/fA7rLtaJDIWEzU57CT.gif" width="700">
-</p>
+![Cyberpunk 2077](https://media.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.gif)
 > "Building the future one project at a time."
