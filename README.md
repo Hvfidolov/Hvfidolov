@@ -18,10 +18,14 @@ Building intelligent systems, automation platforms, and connected devices.
 ## 📊 GitHub Stats
 
 | Stats | Languages |
-|---------|---------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Hvfidolov&show_icons=true&theme=tokyonight) | ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hvfidolov&layout=compact&theme=tokyonight) |
+|--------|--------|
+| ![Abdelhafid's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hvfidolov&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Hvfidolov&layout=compact&theme=tokyonight&hide_border=true) |
 
----
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hvfidolov&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 🌐 Connect With Me
 
