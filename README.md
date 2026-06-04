@@ -49,6 +49,6 @@ Building intelligent systems, automation platforms, and connected devices.
 
 ---
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJrejQ0ZW0wM21hY2xweDRlY2wycHljNnN5dDFvM2gwZ2J6YWhyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fA7rLtaJDIWEzU57CT/giphy.gif" width="500" />
+  <img src="https://i.giphy.com/media/fA7rLtaJDIWEzU57CT/giphy.gif" width="500">
 </p>
 > "Building the future one project at a time."
