@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdelhafid El Yagoubi
+# 👋 Hi, I'm Abdelhafid EL YAGOUBI
 
 ### 🚀 Software Engineer | AI, Data & IoT Enthusiast 
 
